@@ -1,0 +1,4 @@
+requests
+edge-tts
+aiohttp
+pyttsx3
