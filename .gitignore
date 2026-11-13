@@ -1,0 +1,17 @@
+# API keys
+clave_anthropic.txt
+.env
+
+# Python
+__pycache__/
+*.pyc
+
+# Archivos generados
+*.mp4
+*.mp3
+*.wav
+*.ass
+*.fuentes.txt
+
+# Temporales
+short_*/
